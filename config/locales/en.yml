@@ -1,0 +1,6 @@
+en:
+  error:
+    country_not_found: No existe un pais creado, por favor ejecutar el db:seed
+  success:
+    finish: Todos los registros han sido cargado con exito
+
