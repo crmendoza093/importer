@@ -4,7 +4,7 @@ This service is responsible for import the mexican postal codes.
 ## Main branch
 
 ```bash
-  git checkout main
+  git checkout master
 ```
 
 ## Setup
